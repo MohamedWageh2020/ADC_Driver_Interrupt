@@ -1,2 +1,1 @@
-# ADC_Driver_Interrupt
-This project features an ADC driver for ATmega16 using interrupt, tested with Proteus simulation and potentiometer input. LCD 2x16 displays digital output. Find code, circuit design, and testing instructions on this GitHub repository.
+This project is an implementation of an ADC (Analog to Digital Converter) driver for the ATmega16 microcontroller, utilizing interrupt-driven programming. The project was tested using Proteus simulation software and real-world hardware, including a potentiometer to simulate analog input and an LCD 2x16 to display the resulting digital output. The code and circuit design files are available in this GitHub repository, along with instructions for running the simulation and testing the driver on real hardware.
